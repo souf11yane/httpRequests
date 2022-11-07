@@ -1,0 +1,15 @@
+{
+  "name": "http_requests",
+  "version": "0.0.1",
+  "description": "this package is for helping with the http requests",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "sf"
+  ],
+  "author": "soufiane oukattou",
+  "license": "MIT"
+}
