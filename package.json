@@ -12,7 +12,5 @@
   ],
   "author": "soufiane oukattou",
   "license": "MIT",
-  "dependencies": {
-    "dotenv": "^16.0.3"
-  }
+  "dependencies": {}
 }
